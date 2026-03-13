@@ -1,4 +1,5 @@
 ## 新聞文章情緒偵測
+- 新聞文章情緒偵測.pdf: 詳細結果報告
 - all-data.csv: kaggle 資料 Sentiment Analysis for Financial News
 - yahoo_finance_data.csv: Yahoo Finance 新聞資料
 - yahoofinance_data.ipynb: 抓取 Yahoo Finance News
